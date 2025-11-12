@@ -55,6 +55,7 @@ Follow these steps to run the agent on your local machine.
 
 ```
 git clone https://github.com/mhawksey/adk-workspace-user-oauth-example.git
+cd adk-workspace-user-oauth-example
 ```
 
 ### **3. Create a Virtual Environment (Recommended)**
@@ -137,6 +138,6 @@ This project is a development workbench. To move to a production environment, yo
 
 ## **License**
 
-This project is licensed under the Apache 2.0 License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for details.
 
 *Disclaimer: This is not an officially supported Google product.*
