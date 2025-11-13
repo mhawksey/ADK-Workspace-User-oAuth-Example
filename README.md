@@ -1,6 +1,6 @@
 # **Google Chat Agent with ADK (Journey 2) - User Authentication Example**
 
-This project is the companion repository for the AppsScriptPulse article: [**"Mastering Workspace API Authentication in ADK Agents with a Reusable Pattern"**]([https://www.google.com/search?q](https://pulse.appsscript.info/p/2025/11/mastering-workspace-api-authentication-in-adk-agents-with-a-reusable-pattern/).
+This project is the companion repository for the AppsScriptPulse article: [**"Mastering Workspace API Authentication in ADK Agents with a Reusable Pattern"**](https://pulse.appsscript.info/p/2025/11/mastering-workspace-api-authentication-in-adk-agents-with-a-reusable-pattern/).
 
 It demonstrates how to build a sophisticated, multi-capability Google Chat agent using Google's Agent Development Kit (ADK). It specifically follows the "Journey 2" or "Crafted Tool" approach (as defined in the [official ADK authentication documentation](https://google.github.io/adk-docs/tools-custom/authentication/)), favouring custom tool implementation (FunctionTool) over auto-generation.
 
